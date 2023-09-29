@@ -26,4 +26,4 @@ Este texto está en __*negrita y cursiva*__
 + Quinta opción de lista desordenada
 + Sexta opción de lista desordenada
 
-[Esto es un enlace](htpps://joan23.fje.edu "Enlace a la web del cole")
+[Esto es un enlace](https://www.fje.edu/ca/fje "Enlace a la web del cole")
