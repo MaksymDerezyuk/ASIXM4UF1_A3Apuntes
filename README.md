@@ -27,3 +27,9 @@ Este texto está en __*negrita y cursiva*__
 + Sexta opción de lista desordenada
 
 [Esto es un enlace](https://www.fje.edu/ca/fje "Enlace a la web del cole")
+
+|Primea Col.|Segunda Col.|Tercera Col.|
+|---------------|:------------:|---------:|
+|Col 2 es|Centrada|35€|
+|Estilo Cebra|Gris|Blanco|
+|Clase|ASIX1|M4|
