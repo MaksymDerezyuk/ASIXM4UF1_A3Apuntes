@@ -33,3 +33,7 @@ Este texto está en __*negrita y cursiva*__
 |Col 2 es|Centrada|35€|
 |Estilo Cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+-[ ] Opción A
+-[X] Opción B
+-[ ] Opción C
